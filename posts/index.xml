@@ -6,7 +6,23 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 15:08:49 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 16:06:19 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySecondBlog</title>
+      <link>/posts/mysecondblog/</link>
+      <pubDate>Fri, 30 Jun 2023 16:06:19 +0800</pubDate>
+      
+      <guid>/posts/mysecondblog/</guid>
+      <description>
+        
+          
+            搭建博客所遇到的问题 在添加模板后，构建博客出现报错，从课堂派上下载更换模板后才得以解决。 ##对命令行语句理解不透彻，导致返工数次。 ##搭建github仓库时顺序错误，导致命令行操作不断报错，重新使软件与github关联后操作命令行成功。 ##对md语法不熟悉，通过网络资料解决
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>myFirstBlog</title>
       <link>/posts/myfirstblog/</link>
@@ -16,7 +32,7 @@
       <description>
         
           
-            这是我的第一篇博客 
+            欢迎来到我的第一篇博客 
           
           
         
